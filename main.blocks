@@ -1,0 +1,26 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="_(CUP#X:QDzIG8.:t^{A" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="L?2|X9us?qGp|8{QVBDU"><value name="color"><shadow type="colorindexpicker" id="#pqBUpP-Et2kRt:LRGl`"><field name="index">10</field></shadow></value><next><block type="particlesStartScreenAnimation" id="Q:o#@oDJ@4H_EJ}rk.xU"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.confetti</field><value name="duration"><shadow type="timePicker" id="e^CE_42wH}UatQZK3rUl"><field name="ms">500</field></shadow></value><next><block type="device_pause" id="yGr|-g#r6V6pK.1be%{`"><value name="pause"><shadow type="timePicker" id="M7xHSh).G_Ph8aIkQ%|c"><field name="ms">3000</field></shadow></value><next><block type="game_dialog_set_frame" id="va/_~9{^9F*tB92W8G%p"><value name="frame"><shadow type="dialog_image_picker" id="qT^h4gj21%epb(%~oJm="><field name="img">img`
+..66666666666666666666..
+.6699999999999999999966.
+669991111111111111199966
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+699911111111111111119996
+669991111111111111199966
+.6699999999999999999966.
+..66666666666666666666..
+`</field><data>{"commentRefs":[],"fieldData":{"img":"qT^h4gj21%epb(%~oJm="}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="Cix6NI=EImcbL_MNyw*r"><value name="color"><shadow type="colorindexpicker" id="I(8.3jwY})8@Coe7],@?"><field name="index">12</field></shadow></value><next><block type="game_show_long_text" id="9BVu^Qg~aAsbsv*s|HG{"><field name="layout">DialogLayout.Bottom</field><value name="str"><shadow type="text" id="w0c,tCY,67-Qtm)~uV(6"><field name="TEXT">Welcome.</field></shadow></value><next><block type="particlesEndScreenAnimation" id="%GRWDG-sty/!.?71GMgq"><field name="effect">effects.confetti</field><next><block type="mixer_play_sound" id="Z8s0De^j8ZCt_TE./y)/"><field name="sound">music.powerDown</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
